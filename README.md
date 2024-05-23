@@ -7,4 +7,4 @@
 - **ViewModel and LiveData**: For managing UI-related data in a lifecycle-conscious way, ensuring the UI stays up-to-date with the latest data.
 
 ### Quiz Screen
-![Quiz Screen](app\src\main\res\drawable\mainscreen.png)
+![Quiz Screen](QuizApplication\app\src\main\res\drawable\mainscreen.png)
