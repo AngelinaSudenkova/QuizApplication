@@ -1,21 +1,16 @@
 ## Technologies Used
 
-- **Jetpack Compose**: For building the UI, allowing for a declarative approach to creating Android interfaces.
-- **Kotlin**: The primary programming language, known for its concise and expressive syntax.
-- **Retrofit**: For making HTTP requests to the Trivia JSON API, facilitating smooth data retrieval.
-- **Coroutines**: To manage background tasks and ensure a responsive user interface.
-- **ViewModel and LiveData**: For managing UI-related data in a lifecycle-conscious way, ensuring the UI stays up-to-date with the latest data.
+- **Jetpack Compose**: Utilized for building the user interface with a declarative approach, making it easier to create Android interfaces.
+- **Kotlin**: The primary programming language for the app, chosen for its concise and expressive syntax, which enhances code readability and maintainability.
+- **Retrofit**: Used for making HTTP requests to the Trivia JSON API, ensuring efficient and smooth data retrieval.
+- **Coroutines**: Employed to manage background tasks, providing a responsive and smooth user interface by handling asynchronous operations.
+- **ViewModel and LiveData**: Implemented for managing UI-related data in a lifecycle-conscious way, ensuring that the user interface stays updated with the latest data and survives configuration changes.
 
-### Quiz Screen
-![Quiz Screen](app/src/main/res/drawable/mainscreen.png)
+## Screenshots
 
-### Choosing correct answer
-![Correct](app/src/main/res/drawable/goodanswer.png)
-
-### Choosing incorrect answer
-![Incorrect](app/src/main/res/drawable/badanswer.png)
-
-### Progress
-![Incorrect](app/src/main/res/drawable/progress.png)
-
-
+<p align="center">
+  <img src="app/src/main/res/drawable/mainscreen.png" alt="Quiz Screen" width="22%">
+  <img src="app/src/main/res/drawable/goodanswer.png" alt="Choosing Correct Answer" width="22%">
+  <img src="app/src/main/res/drawable/badanswer.png" alt="Choosing Incorrect Answer" width="22%">
+  <img src="app/src/main/res/drawable/progress.png" alt="Progress" width="22%">
+</p>
