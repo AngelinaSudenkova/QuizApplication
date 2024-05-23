@@ -8,3 +8,14 @@
 
 ### Quiz Screen
 ![Quiz Screen](app/src/main/res/drawable/mainscreen.png)
+
+### Choosing correct answer
+![Correct](app/src/main/res/drawable/goodanswer.png)
+
+### Choosing incorrect answer
+![Incorrect](app/src/main/res/drawable/badanswer.png)
+
+### Progress
+![Incorrect](app/src/main/res/drawable/progress.png)
+
+
