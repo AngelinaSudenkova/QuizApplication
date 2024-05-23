@@ -143,7 +143,7 @@ fun QuestionsDisplay(
 
             Spacer(modifier = Modifier.size(32.dp))
             ShowProgress(questionIndex.value)
-
+            Spacer(modifier = Modifier.size(32.dp))
             viewModel.data.value.data?.size?.let {
                 QuestionTracker(
                     counter = questionIndex.value,
